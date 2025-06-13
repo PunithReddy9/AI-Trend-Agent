@@ -1,0 +1,15 @@
+# Environments
+myenv/
+.env
+
+# Data and Outputs
+data/
+outputs/
+logs/
+vectordb/
+
+# Python cache
+__pycache__/
+
+# Utils folder 
+utils/
